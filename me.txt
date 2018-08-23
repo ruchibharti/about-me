@@ -1,5 +1,7 @@
 Hi,
- my fav color is Red
+ my fav color :  Red
 I am Ruchi. And I work for CPT. 
 I like travelling
 Thanks
+
+add copyright
